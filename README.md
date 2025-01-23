@@ -1,2 +1,2 @@
 Techdegree Project #2
- Data pagination
+A database of student infomation displayed with pagination and filters.
